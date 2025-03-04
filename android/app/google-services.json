@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "431940402301",
+    "project_id": "business-card-app-cb50b",
+    "storage_bucket": "business-card-app-cb50b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431940402301:android:e40ccc7a94a94345ef0514",
+        "android_client_info": {
+          "package_name": "com.example.business_card_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOAaypadMdewO31JX5WW8LnMeKgaWRkg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431940402301:android:3e5743fbaf4a5de1ef0514",
+        "android_client_info": {
+          "package_name": "com.example.business_card_app_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOAaypadMdewO31JX5WW8LnMeKgaWRkg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
